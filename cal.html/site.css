@@ -1,0 +1,47 @@
+body {
+    position: relative;
+    background: rgb(255, 0, 0);
+}
+
+.texto {
+  color: aliceblue;
+  position: relative;
+  text-align: center;
+  top: 230px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 55px;
+}
+
+.sim {
+background-color: rgb(255, 255, 255);
+position: relative;
+display: flex;
+margin: auto;
+top: 250px;
+right: 70px;
+height: 40px;
+width: 80px;
+justify-content: center;
+align-items: center;
+font-size: 30px;
+border-color: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+}
+
+.nao {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin: auto;
+    position: relative;
+    top: 210px;
+    left: 70px;
+    height: 40px;
+   width: 80px;
+   justify-content: center;
+   align-items: center;
+   font-size: 30px;
+   border-color: white;
+
+}
